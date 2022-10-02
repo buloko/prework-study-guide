@@ -3,6 +3,7 @@
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This study was creating to make the bootcamp process easier by having a wealth of information to come back to whenever a student is stuck on a problem.It also gives the student first hand practice at creating a website.
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
